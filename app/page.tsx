@@ -23,7 +23,7 @@ export default function Home() {
       <div className="max-w-6xl mx-auto p-6 space-y-8">
         <PageTitle 
           title="ブックマーク管理"
-          subtitle="お気に入りのウェブサイトを整理・管理"
+          subtitle="お気に入りのウェブサイトを簡単に管理"
         />
         
         <BookmarkForm 
